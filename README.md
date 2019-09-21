@@ -9,8 +9,7 @@ Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](Circuit/RangkaianElektr
 
 ## Program Arduino
 ![GambarFSM](ProgramDiagram.png)
-
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+Skema Program berdasarkan F
 
 ## Switch to another file
 
@@ -143,6 +142,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDc2OTk3NCwtNDY4Mjg3NDM4LC0xNz
+eyJoaXN0b3J5IjpbMTYwNjAxNTM3MiwtNDY4Mjg3NDM4LC0xNz
 Y0NjM0OTkyXX0=
 -->
