@@ -7,7 +7,7 @@ Project ini membuat alat elektromekanik untuk peniris bawang. Dengan berkolabora
 Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](https://github.com/zharfanw/BimaProject/blob/master/Circuit/RangkaianElektronikPeniris.pdf)
 
 
-## Create files and folders
+## Ak
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
@@ -142,5 +142,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzI1NTQ4NywtMTc2NDYzNDk5Ml19
+eyJoaXN0b3J5IjpbLTExNzYzMjM5MzIsLTE3NjQ2MzQ5OTJdfQ
+==
 -->
