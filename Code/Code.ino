@@ -4,6 +4,7 @@
 #define relayPin 9
 #define servoMotor 10 
 
+// -------- EDITABLE SPACE --------  
 // Servo Control
 Servo myservo; 
 int normal_position = 0;
@@ -18,6 +19,7 @@ unsigned long intervalGoyang = 10000;
 // unsigned long intervalMuter = 5000; // contoh untuk Setiap 5 detik muter
 unsigned long intervalMuter = 5000;
 
+// -------- EDITABLE SPACE -------- 
 
 enum m_state{
   wait_stat,
