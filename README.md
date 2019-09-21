@@ -9,7 +9,7 @@ Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](Circuit/RangkaianElektr
 
 ## Program Arduino
 ![GambarFSM](ProgramDiagram.png)
-Skema Program berdasarkan Finite State Machine gambar diatas. 
+Skema Program berdasarkan Finite State Machine gambar diatas. Kemudian pada programnya bisa [klik disini](Code/Code.ino), selain itu untuk menguji semua input (tombol) dan aktuator (relay, dan servo)
 
 ## Switch to another file
 
@@ -142,6 +142,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxODY5MTUsLTQ2ODI4NzQzOCwtMTc2ND
-YzNDk5Ml19
+eyJoaXN0b3J5IjpbNDM1NDcxMjgwLC00NjgyODc0MzgsLTE3Nj
+Q2MzQ5OTJdfQ==
 -->
