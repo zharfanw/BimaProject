@@ -9,7 +9,7 @@ Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](Circuit/RangkaianElektr
 
 ## Program Arduino
 ![GambarFSM](ProgramDiagram.png)
-Skema Program berdasarkan F
+Skema Program berdasarkan Finite State Machine gambar diatas. 
 
 ## Switch to another file
 
@@ -142,6 +142,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjAxNTM3MiwtNDY4Mjg3NDM4LC0xNz
-Y0NjM0OTkyXX0=
+eyJoaXN0b3J5IjpbOTQxODY5MTUsLTQ2ODI4NzQzOCwtMTc2ND
+YzNDk5Ml19
 -->
