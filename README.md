@@ -3,6 +3,7 @@ Project ini membuat alat elektromekanik untuk peniris bawang. Dengan berkolabora
 
 
 # Rangkaian Elektronik
+
 Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](https://github.com/zharfanw/BimaProject/blob/master/Circuit/RangkaianElektronikPeniris.pdf)
 
 
@@ -141,5 +142,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDk0NDkyMywtMTc2NDYzNDk5Ml19
+eyJoaXN0b3J5IjpbMTA5MjMyMjY2OSwtMTc2NDYzNDk5Ml19
 -->
