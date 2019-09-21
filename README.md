@@ -3,8 +3,8 @@ Project ini membuat alat elektromekanik untuk peniris bawang. Dengan berkolabora
 
 
 # Rangkaian Elektronik
-![GambarElektronik](https://github.com/zharfanw/BimaProject/blob/master/Circuit/RangkaianElektronikPeniris.sch.svg)
-Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](https://github.com/zharfanw/BimaProject/blob/master/Circuit/RangkaianElektronikPeniris.pdf)
+![GambarElektronik](Circuit/RangkaianElektronikPeniris.sch.svg)
+Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](Circuit/RangkaianElektronikPeniris.pdf)
 
 
 ## Program Arduino
