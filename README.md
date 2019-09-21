@@ -50,10 +50,10 @@ Selain itu untuk menguji semua input (tombol) dan aktuator (relay, dan servo) bi
  3. [Arduino IDE](https://www.arduino.cc/)  sebagai IDE untuk memprogram Arduino UNO
  4. 
 
-# Partner Terkait
-
+# Partner Terlibat
+![LogoNotasiVisual](Logo_NotasiVisual.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDQ0MjAyMiwtMTI1MjEwNzU4NSwtND
-E3ODcxOTY3LC0xMDk2MzY3OTE2LC0xMDk2MzY3OTE2LC00Njgy
-ODc0MzgsLTE3NjQ2MzQ5OTJdfQ==
+eyJoaXN0b3J5IjpbMzUxNjAyNzM5LC0xMjUyMTA3NTg1LC00MT
+c4NzE5NjcsLTEwOTYzNjc5MTYsLTEwOTYzNjc5MTYsLTQ2ODI4
+NzQzOCwtMTc2NDYzNDk5Ml19
 -->
