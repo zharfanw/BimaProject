@@ -51,12 +51,12 @@ Selain itu untuk menguji semua input (tombol) dan aktuator (relay, dan servo) bi
  4. 
 
 # Partner Terlibat
-<img src="Logo_NotasiVisual.png" alt="drawing" style="width:200px;"/>
+<img src="Logo_NotasiVisual.png" alt="drawing" style="width:100px;"/>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc4NzQ3ODIsNzc5OTM1MTcyLC0xMj
-gyNDEwNzEwLDM1MTYwMjczOSwtMTI1MjEwNzU4NSwtNDE3ODcx
-OTY3LC0xMDk2MzY3OTE2LC0xMDk2MzY3OTE2LC00NjgyODc0Mz
-gsLTE3NjQ2MzQ5OTJdfQ==
+eyJoaXN0b3J5IjpbNjgxNjExNjE3LDc3OTkzNTE3MiwtMTI4Mj
+QxMDcxMCwzNTE2MDI3MzksLTEyNTIxMDc1ODUsLTQxNzg3MTk2
+NywtMTA5NjM2NzkxNiwtMTA5NjM2NzkxNiwtNDY4Mjg3NDM4LC
+0xNzY0NjM0OTkyXX0=
 -->
