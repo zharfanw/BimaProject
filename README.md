@@ -1,5 +1,5 @@
 # Project Peniris Bawang Bima
-Project ini membuat alat elektromekanik untuk peniris bawang. Dengan berkolaborasi antara 
+Project ini membuat alat elektromekanik untuk peniris bawang. Dengan berkolaborasi antara Notasi Visual dan ColekmesDev
 
 
 # Rangkaian Elektronik
@@ -56,7 +56,7 @@ Selain itu untuk menguji semua input (tombol) dan aktuator (relay, dan servo) bi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Mzc4MTU0NSwtNjA3MjAwMjMsNzc5OT
+eyJoaXN0b3J5IjpbLTMxNzgwMDM0MCwtNjA3MjAwMjMsNzc5OT
 M1MTcyLC0xMjgyNDEwNzEwLDM1MTYwMjczOSwtMTI1MjEwNzU4
 NSwtNDE3ODcxOTY3LC0xMDk2MzY3OTE2LC0xMDk2MzY3OTE2LC
 00NjgyODc0MzgsLTE3NjQ2MzQ5OTJdfQ==
