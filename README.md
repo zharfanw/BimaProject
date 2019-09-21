@@ -8,6 +8,7 @@ Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](https://github.com/zhar
 
 
 ## Program Arduino
+![GambarFSM](https://github.com/zharfanw/BimaProject/blob/master/ProgramDiagram.png)
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
@@ -142,5 +143,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODI4NzQzOCwtMTc2NDYzNDk5Ml19
+eyJoaXN0b3J5IjpbMTAxNTU3MjE5MiwtNDY4Mjg3NDM4LC0xNz
+Y0NjM0OTkyXX0=
 -->
