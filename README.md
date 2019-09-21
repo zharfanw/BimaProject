@@ -12,6 +12,7 @@ Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](Circuit/RangkaianElektr
 <br>
 Skema Program berdasarkan Finite State Machine gambar diatas. Program pada arduino bisa [klik disini](Code/Code.ino). Untuk mengganti beberapa paramater yang digunakan bisa diedit pada program pada blok seperti ini :
 
+```c
     // -------- EDITABLE SPACE --------
     
     // Servo Control
@@ -39,7 +40,7 @@ Skema Program berdasarkan Finite State Machine gambar diatas. Program pada ardui
     unsigned long intervalMuter = 5000;
     
     // -------- EDITABLE SPACE --------
-
+```
 Selain itu untuk menguji semua input (tombol) dan aktuator (relay, dan servo) bisa [klik disini](CodeHardwareTest/CodeHardwareTest.ino)
 
 ## Switch to another file
@@ -173,6 +174,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTYzNjc5MTYsLTEwOTYzNjc5MTYsLT
-Q2ODI4NzQzOCwtMTc2NDYzNDk5Ml19
+eyJoaXN0b3J5IjpbMjEyODg0MjEwNywtMTA5NjM2NzkxNiwtMT
+A5NjM2NzkxNiwtNDY4Mjg3NDM4LC0xNzY0NjM0OTkyXX0=
 -->
