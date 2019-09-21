@@ -12,7 +12,7 @@ Rangkaian Elektronik dalam bentuk PDF bisa [klik disini](Circuit/RangkaianElektr
 <br>
 Skema Program berdasarkan Finite State Machine gambar diatas. Program pada arduino bisa [klik disini](Code/Code.ino). Untuk mengganti beberapa paramater yang digunakan bisa diedit pada program pada blok seperti ini :
 
-        // -------- EDITABLE SPACE --------
+    // -------- EDITABLE SPACE --------
     
     // Servo Control
     
@@ -173,6 +173,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODcyMTIzNiwtNDY4Mjg3NDM4LC0xNz
-Y0NjM0OTkyXX0=
+eyJoaXN0b3J5IjpbLTEwOTYzNjc5MTYsLTQ2ODI4NzQzOCwtMT
+c2NDYzNDk5Ml19
 -->
