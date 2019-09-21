@@ -45,11 +45,11 @@ Selain itu untuk menguji semua input (tombol) dan aktuator (relay, dan servo) bi
 
 # Aplikasi Pendukung
 
- 1. KiCad untuk
+ 1. [KiCad](http://kicad-pcb.org/) sebagai pembuat skematik
  2. draw.io 
  3. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDY5NjQwNywtMTA5NjM2NzkxNiwtMT
-A5NjM2NzkxNiwtNDY4Mjg3NDM4LC0xNzY0NjM0OTkyXX0=
+eyJoaXN0b3J5IjpbLTE0MDU1OTEzNjksLTEwOTYzNjc5MTYsLT
+EwOTYzNjc5MTYsLTQ2ODI4NzQzOCwtMTc2NDYzNDk5Ml19
 -->
