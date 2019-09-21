@@ -47,9 +47,10 @@ Selain itu untuk menguji semua input (tombol) dan aktuator (relay, dan servo) bi
 
  1. [KiCad](http://kicad-pcb.org/) sebagai pembuat skematik
  2. [draw.io](https://www.draw.io/) sebagai aplikai pembuat diagram
- 3. 
-
+ 3. [Arduino IDE](https://www.arduino.cc/)  sebagai IDE untuk memprogram Arduino UNO
+ 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzg3MTk2NywtMTA5NjM2NzkxNiwtMT
-A5NjM2NzkxNiwtNDY4Mjg3NDM4LC0xNzY0NjM0OTkyXX0=
+eyJoaXN0b3J5IjpbLTEyNTIxMDc1ODUsLTQxNzg3MTk2NywtMT
+A5NjM2NzkxNiwtMTA5NjM2NzkxNiwtNDY4Mjg3NDM4LC0xNzY0
+NjM0OTkyXX0=
 -->
