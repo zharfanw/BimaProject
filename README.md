@@ -43,8 +43,13 @@ Skema Program berdasarkan Finite State Machine gambar diatas. Program pada ardui
 ```
 Selain itu untuk menguji semua input (tombol) dan aktuator (relay, dan servo) bisa [klik disini](CodeHardwareTest/CodeHardwareTest.ino)
 
+# Aplikasi Pendukung
+
+ 1. KiCad untuk
+ 2. draw.io 
+ 3. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NDY2OTk4MiwtMTA5NjM2NzkxNiwtMT
+eyJoaXN0b3J5IjpbMTQ3MDY5NjQwNywtMTA5NjM2NzkxNiwtMT
 A5NjM2NzkxNiwtNDY4Mjg3NDM4LC0xNzY0NjM0OTkyXX0=
 -->
