@@ -35,6 +35,7 @@ LIBS:adapter
 LIBS:arduino
 LIBS:adjacvoltageregulator
 LIBS:relaymodule
+LIBS:RangkaianElektronikPeniris-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -43,8 +44,8 @@ Sheet 1 1
 Title "Rangkaian Elektronik Peniris Bawang"
 Date ""
 Rev ""
-Comp "Designed and Documented By Muhammad Zharfan Wiranata (muhammadzharfanw@yahoo.com)"
-Comment1 "NOTASI VISUAL X COLEKMES"
+Comp "Development by Bimara Siregar"
+Comment1 ""
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -107,7 +108,9 @@ $EndComp
 Wire Wire Line
 	4000 2950 4150 2950
 Wire Wire Line
-	4150 2850 4150 4150
+	4150 2850 4150 2950
+Wire Wire Line
+	4150 2950 4150 4150
 Wire Wire Line
 	4150 4150 4750 4150
 $Comp
@@ -124,32 +127,28 @@ $EndComp
 $Comp
 L Conn_02x04_Top_Bottom J?
 U 1 1 5D85AF54
-P 1850 3050
-F 0 "J?" H 1900 3250 50  0000 C CNN
-F 1 "Screw_TerminalBlock" H 1900 2750 50  0000 C CNN
-F 2 "" H 1850 3050 50  0001 C CNN
-F 3 "" H 1850 3050 50  0001 C CNN
-	1    1850 3050
+P 1950 3050
+F 0 "J?" H 2000 3250 50  0000 C CNN
+F 1 "Screw_TerminalBlock" H 2000 2750 50  0000 C CNN
+F 2 "" H 1950 3050 50  0001 C CNN
+F 3 "" H 1950 3050 50  0001 C CNN
+	1    1950 3050
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2150 3050 2800 3050
+	2250 3050 2650 3050
+Wire Wire Line
+	2650 3050 2800 3050
 Wire Wire Line
 	2950 3100 2800 3100
 Wire Wire Line
 	2800 3100 2800 3050
 Wire Wire Line
-	1000 3050 1650 3050
-Wire Wire Line
-	1000 2850 1100 2850
-Wire Wire Line
-	1100 2850 1100 2950
-Wire Wire Line
-	1100 2950 1650 2950
+	1000 3050 1750 3050
 Wire Wire Line
 	900  3350 900  3150
 Wire Wire Line
-	900  3150 1650 3150
+	900  3150 1750 3150
 Wire Wire Line
 	900  3850 900  4050
 Wire Wire Line
@@ -157,13 +156,15 @@ Wire Wire Line
 Wire Wire Line
 	1400 4050 1400 3250
 Wire Wire Line
-	1400 3250 1650 3250
+	1400 3250 1750 3250
 Wire Wire Line
 	4000 3100 4400 3100
 Wire Wire Line
 	4400 3100 4400 3650
 Wire Wire Line
-	4400 3650 4750 3650
+	4400 3650 4550 3650
+Wire Wire Line
+	4550 3650 4750 3650
 $Comp
 L GND #PWR01
 U 1 1 5D85B72A
@@ -176,7 +177,11 @@ F 3 "" H 4550 4400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4550 3650 4550 4400
+	4550 3650 4550 3750
+Wire Wire Line
+	4550 3750 4550 3850
+Wire Wire Line
+	4550 3850 4550 4400
 Connection ~ 4550 3650
 Wire Wire Line
 	4750 3750 4550 3750
@@ -212,7 +217,9 @@ F 3 "" H 4150 2850 50  0001 C CNN
 $EndComp
 Connection ~ 4150 2950
 Wire Wire Line
-	2150 2950 2950 2950
+	2250 2950 2750 2950
+Wire Wire Line
+	2750 2950 2950 2950
 $Comp
 L SW_Push SW?
 U 1 1 5D85BA81
@@ -251,9 +258,9 @@ Wire Wire Line
 Wire Wire Line
 	2350 5150 2350 3150
 Wire Wire Line
-	2350 3150 2150 3150
+	2350 3150 2250 3150
 Wire Wire Line
-	2150 3250 2500 3250
+	2250 3250 2500 3250
 Wire Wire Line
 	2500 3250 2500 4700
 Wire Wire Line
@@ -338,7 +345,9 @@ $EndComp
 Wire Wire Line
 	9800 2300 9950 2300
 Wire Wire Line
-	9950 2300 9950 2750
+	9950 2300 9950 2600
+Wire Wire Line
+	9950 2600 9950 2750
 Wire Wire Line
 	9800 2600 9950 2600
 Connection ~ 9950 2600
@@ -388,4 +397,29 @@ Text Notes 9350 4100 0    60   ~ 0
 Digital Servo Motor Cable:\nYellow : Signal\nRed : +5V\nBrown : GND\n\n
 Text Notes 700  4450 0    60   ~ 0
 AC Induction  : \nPower : 0.37 kW/0.5 PK\nCurrent : 2.75 A\nVoltage : 220VAC/1 Phase ~ 50Hz\n
+Wire Wire Line
+	1650 2850 1650 2950
+Wire Wire Line
+	1650 2950 1750 2950
+$Comp
+L Polyfuse F?
+U 1 1 5DC25F82
+P 1250 2600
+F 0 "F?" V 1150 2600 50  0000 C CNN
+F 1 "Resettable Fuse/Sekring" V 1350 2600 50  0000 C CNN
+F 2 "" H 1300 2400 50  0001 L CNN
+F 3 "" H 1250 2600 50  0001 C CNN
+	1    1250 2600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1100 2600 1050 2600
+Wire Wire Line
+	1050 2600 1050 2850
+Wire Wire Line
+	1050 2850 1000 2850
+Wire Wire Line
+	1400 2600 1400 2850
+Wire Wire Line
+	1400 2850 1650 2850
 $EndSCHEMATC
