@@ -56,8 +56,8 @@ Selain itu untuk menguji semua input (tombol) dan aktuator (relay, dan servo) bi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Nzk3MDI4NCwtNjA3MjAwMjMsNzc5OT
-M1MTcyLC0xMjgyNDEwNzEwLDM1MTYwMjczOSwtMTI1MjEwNzU4
-NSwtNDE3ODcxOTY3LC0xMDk2MzY3OTE2LC0xMDk2MzY3OTE2LC
-00NjgyODc0MzgsLTE3NjQ2MzQ5OTJdfQ==
+eyJoaXN0b3J5IjpbMjY4MDk5NTA0LC0yNjc5NzAyODQsLTYwNz
+IwMDIzLDc3OTkzNTE3MiwtMTI4MjQxMDcxMCwzNTE2MDI3Mzks
+LTEyNTIxMDc1ODUsLTQxNzg3MTk2NywtMTA5NjM2NzkxNiwtMT
+A5NjM2NzkxNiwtNDY4Mjg3NDM4LC0xNzY0NjM0OTkyXX0=
 -->
